@@ -1,24 +1,35 @@
 [
   {
-    "material": "Acryl",
-    "farbe": "Rot",
-    "geschwindigkeit": "20",
-    "durchgaenge": "2",
-    "laserkopf": "Standard",
-    "urheber": "Max Mustermann",
-    "neue_achse": "Ja",
-	"ident": "1001",
-    "shop_link": "https://example.com/acryl-rot"
+    "Material": "Acryl",
+    "Farbe": "Transparent",
+    "Geschwindigkeit": "20",
+    "Durchgänge": "1",
+    "Laserkopf": "Standard",
+    "Urheber": "Ben",
+    "Neue Achse?": "Ja",
+    "Ident": "1001",
+    "Shop-Link": "https://example.com/material/acryl"
   },
   {
-    "material": "Holz",
-    "farbe": "Natur",
-    "geschwindigkeit": "15",
-    "durchgaenge": "1",
-    "laserkopf": "Standard",
-    "urheber": "Anna Beispiel",
-    "neue_achse": "Nein",
-	"ident": "1002",
-    "shop_link": "https://example.com/holz-natur"
+    "Material": "Holz",
+    "Farbe": "Natur",
+    "Geschwindigkeit": "15",
+    "Durchgänge": "2",
+    "Laserkopf": "Fein",
+    "Urheber": "Anna",
+    "Neue Achse?": "Nein",
+    "Ident": "1002",
+    "Shop-Link": "https://example.com/material/holz"
+  },
+  {
+    "Material": "Papier",
+    "Farbe": "Weiß",
+    "Geschwindigkeit": "25",
+    "Durchgänge": "1",
+    "Laserkopf": "Standard",
+    "Urheber": "Max",
+    "Neue Achse?": "Ja",
+    "Ident": "1003",
+    "Shop-Link": "https://example.com/material/papier"
   }
 ]
