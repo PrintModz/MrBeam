@@ -1,5 +1,24 @@
 [
-  ["1001", "Holz", "Natur", "50", "2", "Kopf A", "Max Mustermann", "Nein", "https://shop.example.com/material1", "43653"],
-  ["1002", "Acryl", "Rot", "30", "1", "Kopf B", "Erika Muster", "Ja", "https://shop.example.com/material2", "76536"],
-  ["1003", "Papier", "Weiß", "70", "3", "Kopf C", "John Doe", "Nein", "https://shop.example.com/material3", "86234"],
+  {
+    "ident": "1001",
+    "material": "Acryl",
+    "farbe": "Rot",
+    "geschwindigkeit": "20",
+    "durchgaenge": "2",
+    "laserkopf": "Standard",
+    "urheber": "Max Mustermann",
+    "neue_achse": "Ja",
+    "shop_link": "https://example.com/acryl-rot"
+  },
+  {
+    "ident": "1002",
+    "material": "Holz",
+    "farbe": "Natur",
+    "geschwindigkeit": "15",
+    "durchgaenge": "1",
+    "laserkopf": "Standard",
+    "urheber": "Anna Beispiel",
+    "neue_achse": "Nein",
+    "shop_link": "https://example.com/holz-natur"
+  }
 ]
