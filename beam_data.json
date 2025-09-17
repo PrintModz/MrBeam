@@ -1,5 +1,5 @@
 [
-  ["1001", "Holz", "Natur", "50", "2", "Kopf A", "Max Mustermann", "Nein", "https://shop.example.com/material1"],
-  ["1002", "Acryl", "Rot", "30", "1", "Kopf B", "Erika Muster", "Ja", "https://shop.example.com/material2"],
-  ["1003", "Papier", "Weiß", "70", "3", "Kopf C", "John Doe", "Nein", "https://shop.example.com/material3"]
+  ["1001", "Holz", "Natur", "50", "2", "Kopf A", "Max Mustermann", "Nein", "https://shop.example.com/material1", "43653"],
+  ["1002", "Acryl", "Rot", "30", "1", "Kopf B", "Erika Muster", "Ja", "https://shop.example.com/material2", "76536"],
+  ["1003", "Papier", "Weiß", "70", "3", "Kopf C", "John Doe", "Nein", "https://shop.example.com/material3", "86234"],
 ]
