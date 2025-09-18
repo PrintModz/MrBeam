@@ -1,35 +1,46 @@
 [
   {
-    "Material": "Acryl",
-    "Farbe": "Transparent",
-    "Geschwindigkeit": "20",
+    "Material": "Filz",
+    "Farbe": "Grün",
+    "Geschwindigkeit": "6000",
     "Durchgänge": "1",
-    "Laserkopf": "Standard",
-    "Urheber": "Ben",
+    "Laserkopf": "[XX]",
+    "Urheber": "Jessica S.",
     "Neue Achse?": "Ja",
-    "Ident": "1001",
-    "Shop-Link": "https://example.com/material/acryl"
+    "S / L": "gelasert",
+    "Shop-Link": "https://shop.printmodz.com/acryl-rot"
   },
   {
-    "Material": "Holz",
-    "Farbe": "Natur",
-    "Geschwindigkeit": "15",
-    "Durchgänge": "2",
-    "Laserkopf": "Fein",
-    "Urheber": "Anna",
-    "Neue Achse?": "Nein",
-    "Ident": "1002",
-    "Shop-Link": "https://example.com/material/holz"
-  },
-  {
-    "Material": "Papier",
-    "Farbe": "Weiß",
-    "Geschwindigkeit": "25",
+    "Material": "Filz",
+    "Farbe": "Grün",
+    "Geschwindigkeit": "3000",
     "Durchgänge": "1",
-    "Laserkopf": "Standard",
+    "Laserkopf": "[XX]",
+    "Urheber": "Jessica S.",
+    "Neue Achse?": "Ja",
+    "S / L": "geschnitten",
+    "Shop-Link": "https://shop.printmodz.com/holz-natur"
+  },
+  {
+    "Material": "Glas",
+    "Farbe": "Klar",
+    "Geschwindigkeit": "60",
+    "Durchgänge": "3",
+    "Laserkopf": "Kopf A",
     "Urheber": "Max",
+    "Neue Achse?": "Nein",
+    "S / L": "S",
+    "Shop-Link": "https://shop.printmodz.com/glas-klar"
+  },
+  {
+    "Material": "Karton",
+    "Farbe": "Braun",
+    "Geschwindigkeit": "120",
+    "Durchgänge": "1",
+    "Laserkopf": "Kopf C",
+    "Urheber": "Lisa",
     "Neue Achse?": "Ja",
-    "Ident": "1003",
-    "Shop-Link": "https://example.com/material/papier"
+    "S / L": "L",
+    "Shop-Link": "https://shop.printmodz.com/karton-braun"
   }
 ]
