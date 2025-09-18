@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.0",
+  "version": "1.2",
   "entries": [
     {
     "Material": "Filz",
@@ -9,7 +9,7 @@
     "Laserkopf": "[XX]",
     "Urheber": "Jessica S.",
     "Neue Achse?": "Ja",
-    "S / L": "gelasert",
+    "S / L": "lasern",
     "Shop-Link": "https://shop.printmodz.com/acryl-rot"
   },
   {
@@ -20,7 +20,7 @@
     "Laserkopf": "[XX]",
     "Urheber": "Jessica S.",
     "Neue Achse?": "Ja",
-    "S / L": "geschnitten",
+    "S / L": "scheiden",
     "Shop-Link": "https://shop.printmodz.com/holz-natur"
   },
   {
