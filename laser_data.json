@@ -1,0 +1,49 @@
+{
+    "version": "1.3",
+    "entries": [
+        {
+            "Material": "Filz",
+            "Farbe": "Grün",
+            "Geschwindigkeit": "6000",
+            "Durchgänge": "1",
+            "Laserkopf": "[XX]",
+            "Urheber": "Jessica S.",
+            "Neue Achse?": "Ja",
+            "S / L": "lasern",
+            "Shop-Link": "https://shop.printmodz.com/acryl-rot"
+        },
+        {
+            "Material": "Filz",
+            "Farbe": "Grün",
+            "Geschwindigkeit": "3000",
+            "Durchgänge": "1",
+            "Laserkopf": "[XX]",
+            "Urheber": "Jessica S.",
+            "Neue Achse?": "Ja",
+            "S / L": "scheiden",
+            "Shop-Link": "https://shop.printmodz.com/holz-natur"
+        },
+        {
+            "Material": "Glas",
+            "Farbe": "Klar",
+            "Geschwindigkeit": "60",
+            "Durchgänge": "3",
+            "Laserkopf": "Kopf A",
+            "Urheber": "Max",
+            "Neue Achse?": "Nein",
+            "S / L": "S",
+            "Shop-Link": "https://shop.printmodz.com/glas-klar"
+        },
+        {
+            "Material": "Karton",
+            "Farbe": "Braun",
+            "Geschwindigkeit": "120",
+            "Durchgänge": "1",
+            "Laserkopf": "Kopf C",
+            "Urheber": "Lisa",
+            "Neue Achse?": "Ja",
+            "S / L": "L",
+            "Shop-Link": "https://shop.printmodz.com/karton-braun"
+        }
+    ]
+}
